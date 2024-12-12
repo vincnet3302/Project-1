@@ -1,1 +1,1 @@
-# Hand written digit classifier
+# Projects 
